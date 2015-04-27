@@ -1,0 +1,9 @@
+{
+  "name": "ServeStaticContent",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "minimist": "^1.1.1",
+    "yargs": "^3.8.0"
+  }
+}
